@@ -1,0 +1,17 @@
+{
+    "name": "bme280-microbit",
+    "version": "1.0.0",
+    "description": "BME280 Temperature, Pressure and Humidity Sensor in MakeCode",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "bme280.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
